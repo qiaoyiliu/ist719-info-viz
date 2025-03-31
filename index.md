@@ -5,6 +5,7 @@ permalink: /
 sidebar:
   nav: "course"
 toc: false
+toc_sticky: true
 ---
 
 <h1 style="font-size: 1.75rem; font-weight: 600; margin-bottom: 0.25em;">
