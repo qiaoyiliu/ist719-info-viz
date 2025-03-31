@@ -17,10 +17,15 @@ plugins:
 include:
   - _pages
 
+author:
+  name   : "Sevgi Erdogan"
+  avatar : "/assets/images/ringmap.jpg"
+  email  : "serdogan@syr.edu"
+  
 defaults:
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
-      author_profile: false
+      author_profile: true
