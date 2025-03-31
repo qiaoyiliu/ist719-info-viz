@@ -1,0 +1,15 @@
+/* Make h1 titles smaller */
+.page__title {
+  font-size: 1.75rem;  /* or try 1.5rem for even smaller */
+}
+
+/* Stretch the main content wider when there's no TOC */
+.page {
+  grid-template-columns: 300px 1fr !important;  /* sidebar + content */
+}
+
+@media (min-width: 768px) {
+  .page.has-no-toc {
+    grid-template-columns: 300px 1fr !important;
+  }
+}
