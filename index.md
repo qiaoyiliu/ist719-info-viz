@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome to IST719: Data Visualization in R"
+title: "Welcome to IST719 Information Visualization"
 permalink: /
 sidebar:
   nav: "course"
