@@ -1,9 +1,17 @@
-# Welcome to IST719: Information Visualization
+---
+layout: single
+title: "Welcome"
+permalink: /
+sidebar:
+  nav: "course"
+toc: true
+toc_sticky: true
+---
 
-Welcome to the official course site!
+# Welcome to IST719: Data Visualization in R
 
-## 📘 Course Materials
+This course explores the art and science of information visualization using **R** and **Adobe Illustrator**.
 
-- [Syllabus](syllabus.md)
-- [Assignments](assignments/week1.md)
-- [Labs](labs/lab1.md)
+Use the left sidebar to navigate to the syllabus, weekly schedule, lab materials, and assignments.
+
+---
