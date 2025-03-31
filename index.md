@@ -4,7 +4,7 @@ title: "Welcome to IST719 Information Visualization"
 permalink: /
 sidebar:
   nav: "course"
-toc: true
+toc: false
 toc_sticky: true
 ---
 
