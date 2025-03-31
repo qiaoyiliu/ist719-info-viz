@@ -13,3 +13,7 @@
     grid-template-columns: 300px 1fr !important;
   }
 }
+
+.page__main {
+  max-width: 1000px; /* try 1100 or more */
+}
